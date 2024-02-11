@@ -15,7 +15,7 @@ Handwritten digits used for image processing training and testing
 - K is the number of classes in vector $\mathbf{z}$
 
 $$
-\sigma(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^{K} e^{z_j}} \quad \text{for } i = 1, \ldots, K
+sigma(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^{K} e^{z_j}} \quad \text{for } i = 1, \ldots, K
 $$
 
 ## 3. Define log-likelihood for softmax
