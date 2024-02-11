@@ -46,7 +46,7 @@ $$
 - Do forward pass using test data
 
 ### 4.4 Compute accuracy
-
+Calculate and ouput model accuracy
 
 
 
