@@ -14,9 +14,7 @@ Handwritten digits used for image processing training and testing
 - Define softmax function $\sigma(\mathbf{z})_i$ applied to element of vector $\mathbf{z}$ with dimentions (N,D)
 - K is the number of classes in vector $\mathbf{z}$
 
-$
-\sigma(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^{K} e^{z_j}} \quad \text{for } i = 1, \ldots, K
-$
+![alt text](image.png)
 
 ## 3. Define log-likelihood for softmax
 The log likelihood is calculated using the formula: 
