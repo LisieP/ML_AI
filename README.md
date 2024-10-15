@@ -1,5 +1,5 @@
 # Python based ML/AI
-Most of the implementations are done using first principle linear algebra and fancy probability theory
+Most of the implementations are done using first principle linear algebra and statistics
 
 # Sources & Contributions
 -  Joshua Jansen van Vuren, Thomas Niesler, University of Stellenbosch, 2022  
